@@ -14,6 +14,8 @@ Each time a user selects a point on the map, chooses a weather type, and sets th
 
 The application utilizes the Java component JMapViewer to display the map. The project is based on the Maven structure and the graphical user interface is built using the Swing library.
 
+You can see a short demonstration of our project [here](https://www.youtube.com/watch?v=0VVqYSDy_Y4).
+
 ### Authors
 
 - [Miłosz Zieliński](https://github.com/zielinskim04)
